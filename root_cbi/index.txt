@@ -1,0 +1,2 @@
+V	171011082604Z		01	unknown	/C=CI/ST=Lagune/L=Abidjan/O=Cantbreakit/CN=www.root_cbi_g2.fr/emailAddress=root_cbi_g2@mail.fr
+V	171011092909Z		02	unknown	/C=FR/ST=Essonne/L=Juvisy/O=Cantbreakit/CN=www.semestre2.fr/emailAddress=semestre2@mail.fr
